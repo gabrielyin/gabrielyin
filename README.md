@@ -1,5 +1,7 @@
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielyin&show_icons=true&theme=dark">
+  <a target="_blank" href="https://www.linkedin.com/in/gabriel-yin-a61a53170/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielyin&show_icons=true&theme=dark">
+  </a>
 </div>
 <br />
 <p align="center">
